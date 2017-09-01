@@ -10,4 +10,4 @@ The code uploads the resized image to a different bucket with the same image nam
    
    
 
-PS: This script is inspired and updated from [AWS Doc](http://docs.aws.amazon.com/lambda/latest/dg/with-s3-example-deployment-pkg.html)
+PS: This example is inspired and updated from [AWS Doc](http://docs.aws.amazon.com/lambda/latest/dg/with-s3-example-deployment-pkg.html)
